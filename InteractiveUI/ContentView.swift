@@ -29,7 +29,7 @@ struct ContentView: View {
             }
             .font(.title2)
             .buttonStyle(.borderedProminent)
-            .tint(.mint)
+            .tint(.green)
 
         }
         .padding()
